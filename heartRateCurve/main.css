@@ -1,0 +1,12 @@
+*{
+	margin:0;
+	padding:0;
+}
+.realTime{
+	display:flex;
+	flex-direction:column;
+}
+.heartRate{
+  /* background:#00ff00; */
+}
+
