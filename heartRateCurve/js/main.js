@@ -12,7 +12,6 @@ $(function(){
 
 	// 获取uid
 	var uid = window.location.href.split('?')[1];
-  	alert(uid);
 
 	// 连接实时端
 	var uid = "zc_1_1_3";
