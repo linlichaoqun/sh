@@ -72,7 +72,7 @@ $(function(){
   	}
   }
 
-	// 转换器 ----  对象转数组（将后端传来的无序对象转为前端可用的数组）
+  // 转换器 ----  对象转数组（将后端传来的无序对象转为前端可用的数组）
   function objToArr(obj){
     	var arr = [];
     	for(var i in obj){
